@@ -138,9 +138,13 @@ height: 100px;
 
 
 @media  screen and (max-width:450px) {
+     body{
+    overflow-x: hidden;
+  }
   .row img{
     padding-top: 2vw;
   }
+    
 
   .img_logo{
     height: 28px;
@@ -194,7 +198,7 @@ height: 100px;
 .last_img{
   height:55vh;
   /* width:70vw; */
-  padding-left: 5vw;
+  padding-left: 2vw;
   /* float: left; */
   padding-bottom: 2vh;
 }
