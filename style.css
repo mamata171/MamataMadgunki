@@ -95,8 +95,8 @@ height: 100px;
   height: 40px;
 }
 
-.last_img{
-  height:50vw;
+.last_img img{
+  height:55vh;
   /* width:70vw; */
   padding-left: 5vw;
   /* float: left; */
